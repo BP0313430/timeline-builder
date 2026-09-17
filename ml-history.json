@@ -1,0 +1,130 @@
+{
+  "title": {
+    "text": {
+      "headline": "A History of Machine Learning",
+      "text": "Key moments in the development of algorithms, mathematics, statistics, and AI."
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1763" },
+      "text": {
+        "headline": "Bayes' Theorem is Published",
+        "text": "Thomas Bayes' work on conditional probability, published posthumously, underpins much of modern probabilistic machine learning."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ThomasBayes.png",
+        "caption": "Thomas Bayes",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:ThomasBayes.png'>public domain</a>"
+      }
+    },
+    {
+      "start_date": { "year": "1901" },
+      "text": {
+        "headline": "Principal Component Analysis is Introduced",
+        "text": "Karl Pearson develops PCA, a foundational technique for reducing dimensionality in data."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Pearson,_1912.jpg",
+        "caption": "Karl Pearson, 1912",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Karl_Pearson,_1912.jpg'>public domain</a>"
+      }
+    },
+    {
+      "start_date": { "year": "1950" },
+      "text": {
+        "headline": "The Turing Test",
+        "text": "Alan Turing publishes 'Computing Machinery and Intelligence,' proposing a test for machine intelligence."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Turing_(1951).jpg",
+        "caption": "Alan Turing, 1951",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Alan_Turing_(1951).jpg'>public domain</a>"
+      }
+    },
+    {
+      "start_date": { "year": "1956" },
+      "text": {
+        "headline": "The Dartmouth Workshop",
+        "text": "A summer workshop at Dartmouth College where the term 'Artificial Intelligence' is coined, marking the field's formal beginning."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dartmouth_Hall,_Dartmouth_College_-_general_view.JPG",
+        "caption": "Dartmouth Hall, Dartmouth College",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Dartmouth_Hall,_Dartmouth_College_-_general_view.JPG'>CC BY-SA</a>"
+      }
+    },
+    {
+      "start_date": { "year": "1957" },
+      "text": {
+        "headline": "The Perceptron",
+        "text": "Frank Rosenblatt develops the perceptron, an early neural network capable of learning."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_I_Perceptron,_Figure_2_of_operator's_manual.png",
+        "caption": "Mark I Perceptron, from the operator's manual",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Mark_I_Perceptron,_Figure_2_of_operator%27s_manual.png'>public domain</a>"
+      }
+    },
+    {
+      "start_date": { "year": "1997" },
+      "text": {
+        "headline": "Deep Blue Beats Garry Kasparov",
+        "text": "IBM's Deep Blue becomes the first computer to beat a reigning world chess champion in a match."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deep_Blue_versus_Kasparov,_1997,_Game_6.gif",
+        "caption": "Deep Blue vs. Kasparov, Game 6, 1997",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Deep_Blue_versus_Kasparov,_1997,_Game_6.gif'>CC BY-SA</a>"
+      }
+    },
+    {
+      "start_date": { "year": "2006" },
+      "text": {
+        "headline": "The Deep Learning Renaissance Begins",
+        "text": "Geoffrey Hinton introduces deep belief networks, reviving interest in deep neural networks."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Geoffrey_Hinton_at_UBC.jpg",
+        "caption": "Geoffrey Hinton",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Geoffrey_Hinton_at_UBC.jpg'>CC BY-SA</a>"
+      }
+    },
+    {
+      "start_date": { "year": "2011" },
+      "text": {
+        "headline": "IBM Watson Wins Jeopardy!",
+        "text": "Watson defeats two of the show's greatest champions, demonstrating advanced natural language processing."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IBM_Watson_w_Jeopardy.jpg",
+        "caption": "IBM Watson competing on Jeopardy!",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:IBM_Watson_w_Jeopardy.jpg'>CC BY-SA</a>"
+      }
+    },
+    {
+      "start_date": { "year": "2016" },
+      "text": {
+        "headline": "AlphaGo Beats Lee Sedol",
+        "text": "DeepMind's AlphaGo defeats a world champion Go player, a game long considered too complex for computers to master."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee_Se-dol_2012.jpg",
+        "caption": "Lee Sedol",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:Lee_Se-dol_2012.jpg'>CC BY-SA</a>"
+      }
+    },
+    {
+      "start_date": { "year": "2022" },
+      "text": {
+        "headline": "ChatGPT Launches",
+        "text": "OpenAI's ChatGPT brings large language models to mainstream public use, becoming one of the fastest-growing consumer applications in history."
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT-Logo.svg",
+        "caption": "ChatGPT logo",
+        "credit": "Wikimedia Commons/<a href='https://commons.wikimedia.org/wiki/File:ChatGPT-Logo.svg'>public domain</a>"
+      }
+    }
+  ]
+}
